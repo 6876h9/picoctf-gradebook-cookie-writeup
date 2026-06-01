@@ -1,13 +1,5 @@
 # picoCTF - Online Gradebook Cookie Manipulation Writeup
 
-## Repository Title
-**picoCTF - Online Gradebook Cookie Authentication Bypass**
-
-## Repository Description
-Professional writeup of the picoCTF Online Gradebook web exploitation challenge demonstrating client-side cookie manipulation, privilege escalation, and authentication bypass through insecure trust of user-controlled cookies.
-
----
-
 ## Challenge Overview
 
 This challenge presents a simple gradebook application with a "Continue as guest" button.
